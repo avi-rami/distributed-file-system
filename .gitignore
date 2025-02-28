@@ -1,0 +1,28 @@
+# Build artifacts
+*.o
+*.d
+*.dSYM
+*.img
+*.out
+
+# System files
+.DS_Store
+.vscode/
+
+# Compiled binaries
+ds3ls
+ds3cat
+ds3bits
+ds3mkdir
+ds3touch
+ds3cp
+ds3rm
+mkfs
+gunrock_web
+
+# Temporary files
+temp.txt
+src.txt
+
+# Test outputs
+tests-out/ 
